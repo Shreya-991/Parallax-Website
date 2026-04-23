@@ -107,4 +107,10 @@ Created as a beginner-friendly project to practice **CSS animations and parallax
 
 ---
 
+Some images used in this project are sourced from the internet for educational purposes only.
+All rights belong to their respective owners.
+
+If any image owner wants their content removed, please feel free to raise an issue.
+
+
 ⭐ If you like this project, feel free to star it!
